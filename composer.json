@@ -1,0 +1,15 @@
+{
+    "name": "athena2902/microPhp",
+    "description": "The Micro Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quyet Vu",
+            "email": "quyetvv_55@vnu.edu.vn"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    }
+}
